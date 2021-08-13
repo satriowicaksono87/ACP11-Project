@@ -12,4 +12,5 @@ func main() {
 
 func featureA() {
 	fmt.Println("This is Feature A")
+	fmt.Println("Pull request feature A")
 }

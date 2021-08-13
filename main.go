@@ -13,3 +13,8 @@ func main() {
 func featureA() {
 	fmt.Println("This is Feature A")
 }
+func featureB() {
+	a := 10
+	b := 5
+	fmt.Println(a * b)
+}

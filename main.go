@@ -8,5 +8,10 @@ func main() {
 	fmt.Println("Hello World 1")
 	fmt.Println("Hello World 2")
 	fmt.Println("Hello World 3")
-	fmt.Println("Feature B")
+}
+
+func featureB() {
+	a := 10
+	b := 5
+	fmt.Println(10 * 5)
 }

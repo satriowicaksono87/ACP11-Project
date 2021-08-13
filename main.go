@@ -13,6 +13,7 @@ func main() {
 func featureA() {
 	fmt.Println("This is Feature A")
 	fmt.Println("Pull request feature A")
+	fmt.Println("Feature A is complete !!")
 }
 func featureB() {
 	a := 10
